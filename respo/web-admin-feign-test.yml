@@ -1,3 +1,4 @@
+profile: web-admin-feign-test
 spring:
   application:
     name: spring-cloud-demo-web-admin-feign
